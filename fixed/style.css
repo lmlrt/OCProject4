@@ -42,7 +42,13 @@ a:hover {
     margin-right: auto;
 }
 #nav_logo {
+    width: 220px;
     height: 40px;
+}
+
+#logo_index {
+    width: 100px;
+    height: 100px;
 }
 footer {
     color:#212121;
