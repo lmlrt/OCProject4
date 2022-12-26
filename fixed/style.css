@@ -10,7 +10,6 @@ body {
 a,
 button {
     transition: all .3s ease-in-out;
-    outline: none!important;
 }
 
 a:hover {
@@ -20,6 +19,9 @@ a:hover {
 #main_description {
      font-size: 22px;
      font-weight: 400;
+     max-width: 630px;
+     margin-left: auto;
+     margin-right: auto;
 }
 .big_quote {
     display: block;
